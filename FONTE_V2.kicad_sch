@@ -1,0 +1,284 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "b66137f9-f871-4921-ab89-353bfdf398cf")
+	(paper "A4")
+	(title_block
+		(title "FONTE CC/CV MICROCONTROLADA")
+		(rev "02")
+		(company "MV TECH")
+	)
+	(lib_symbols)
+	(sheet
+		(at 128.27 44.45)
+		(size 26.67 43.18)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "59f4d109-b921-4dc7-9657-39c9e203a7ca")
+		(property "Sheetname" "DAC_ADC_MASTER"
+			(at 128.27 43.7384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "DAC_ADC_MASTER.kicad_sch"
+			(at 128.27 88.2146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "FONTE_V2"
+				(path "/b66137f9-f871-4921-ab89-353bfdf398cf"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 95.25 45.72)
+		(size 29.21 41.91)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "5b968303-49da-4e30-a51d-821482935caf")
+		(property "Sheetname" "HMI_MASTER"
+			(at 95.25 45.0084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "HMI_MASTER.kicad_sch"
+			(at 95.25 88.2146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "FONTE_V2"
+				(path "/b66137f9-f871-4921-ab89-353bfdf398cf"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 60.96 45.72)
+		(size 26.67 41.91)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "647dce4b-c239-4ba4-9369-94e022ac2ed2")
+		(property "Sheetname" "MCU_MASTER"
+			(at 60.96 45.0084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "MCU_MASTER.kicad_sch"
+			(at 60.96 88.2146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "FONTE_V2"
+				(path "/b66137f9-f871-4921-ab89-353bfdf398cf"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 161.29 44.45)
+		(size 27.94 43.18)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "72c98937-6d0d-4426-807d-d8081a5049a4")
+		(property "Sheetname" "TELEMETRY_MASTER"
+			(at 161.29 43.7384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "TELEMETRY_MASTER.kicad_sch"
+			(at 161.29 88.2146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "FONTE_V2"
+				(path "/b66137f9-f871-4921-ab89-353bfdf398cf"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 194.31 45.72)
+		(size 25.4 41.91)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "72fdb841-b1a7-44d0-b48a-aa8e471fed5d")
+		(property "Sheetname" "FAN_HEATSINK_MASTER"
+			(at 194.31 45.0084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "FAN_HEATSINK_MASTER.kicad_sch"
+			(at 194.31 88.2146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "FONTE_V2"
+				(path "/b66137f9-f871-4921-ab89-353bfdf398cf"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 17.78 46.99)
+		(size 26.67 40.64)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "74f90eb3-5d47-489e-9e30-8985766b1420")
+		(property "Sheetname" "POWER_SUPPLY_MASTER"
+			(at 17.78 46.2784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "POWER_SUPPLY_MASTER.kicad_sch"
+			(at 17.78 88.2146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "FONTE_V2"
+				(path "/b66137f9-f871-4921-ab89-353bfdf398cf"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 234.95 45.72)
+		(size 20.32 41.91)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "b0a3d1d6-97a4-4324-8082-269072a894aa")
+		(property "Sheetname" "REG_POWER_SUPPLY"
+			(at 234.95 45.0084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "untitled.kicad_sch"
+			(at 234.95 88.2146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "FONTE_V2"
+				(path "/b66137f9-f871-4921-ab89-353bfdf398cf"
+					(page "8")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
